@@ -22,7 +22,7 @@ Examples of TrainingSet
 
 ====================
 ## Results of the code
-Trained about 1 epoch
+Trained about 1 epoch, noise intensity sigma: 25
 
 |Raw|Noised|FormResNet[1]|DnCNN[2]|
 |-|-|-|-|
