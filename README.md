@@ -24,7 +24,7 @@ Examples of TrainingSet
 ## Results of the code
 Trained about 1 epoch
 
-|Raw|Noised|FormResNet|DnCNN|
+|Raw|Noised|FormResNet[1]|DnCNN[2]|
 |-|-|-|-|
 |![](https://github.com/MingtaoGuo/DnCNN-TensorFlow/blob/master/TestingSet/01.png)|![](https://github.com/MingtaoGuo/DnCNN-TensorFlow/blob/master/IMAGES/noised1.jpg)|![](https://github.com/MingtaoGuo/FormResNet-Denoise-Gaussian-noise-TensorFlow/blob/master/IMAGES/denoised1.jpg)|![](https://github.com/MingtaoGuo/DnCNN-TensorFlow/blob/master/IMAGES/denoised1.jpg)|
 |-|-|psnr/ssim 26.12/0.82|psnr/ssim 25.01/0.77|
@@ -41,5 +41,6 @@ Trained about 1 epoch
 |![](https://github.com/MingtaoGuo/DnCNN-TensorFlow/blob/master/TestingSet/07.png)|![](https://github.com/MingtaoGuo/DnCNN-TensorFlow/blob/master/IMAGES/noised7.jpg)|![](https://github.com/MingtaoGuo/FormResNet-Denoise-Gaussian-noise-TensorFlow/blob/master/IMAGES/denoised7.jpg)|![](https://github.com/MingtaoGuo/DnCNN-TensorFlow/blob/master/IMAGES/denoised7.jpg)|
 |-|-|psnr/ssim 22.00/0.83|psnr/ssim 23.83/0.79|
 
-
+[1] Jiao J, Tu W C, He S, et al. FormResNet: Formatted Residual Learning for Image Restoration[C]// Computer Vision and Pattern Recognition Workshops. IEEE, 2017:1034-1042.
+[2] Zhang K, Zuo W, Chen Y, et al. Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising[J]. IEEE Transactions on Image Processing A Publication of the IEEE Signal Processing Society, 2017, 26(7):3142-3155.
 
