@@ -42,5 +42,6 @@ Trained about 1 epoch
 |-|-|psnr/ssim 22.00/0.83|psnr/ssim 23.83/0.79|
 
 [1] Jiao J, Tu W C, He S, et al. FormResNet: Formatted Residual Learning for Image Restoration[C]// Computer Vision and Pattern Recognition Workshops. IEEE, 2017:1034-1042.
+
 [2] Zhang K, Zuo W, Chen Y, et al. Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising[J]. IEEE Transactions on Image Processing A Publication of the IEEE Signal Processing Society, 2017, 26(7):3142-3155.
 
